@@ -1,0 +1,19 @@
+.titulo {
+  color: red;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.destacado {
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.destacados {
+  color: white;
+  background-color: orangered;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 2px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+}
